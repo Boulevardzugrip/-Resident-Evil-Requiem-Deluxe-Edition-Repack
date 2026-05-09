@@ -1,4 +1,4 @@
-**Resident Evil Requiem: Deluxe Edition**  
+# **Resident Evil Requiem: Deluxe Edition**  
 The most complete and enhanced collection for Resident Evil Requiem. Includes the full base game, all official Deluxe content, and carefully curated community enhancements for the ultimate survival horror experience.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a566df64-a7fd-444a-be86-fa288f5202ae" />
